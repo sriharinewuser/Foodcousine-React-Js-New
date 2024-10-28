@@ -1,5 +1,5 @@
 {
-  "name": "food-cousine-react--js-fullstack",
+  "name": "foodcousine-react-js-fullstack",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "node":">=18 <19"
+  "description": ""
 }
