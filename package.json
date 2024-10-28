@@ -1,6 +1,8 @@
 {
   "name": "foodcousine-react-js-fullstack",
   "version": "1.0.0",
+  "description": "",
+
   "main": "index.js",
   "scripts": {
     "start":"cd backend && npm start",
@@ -11,5 +13,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "engines":{
+    "node":">=18 <19"
+
+  }
 }
